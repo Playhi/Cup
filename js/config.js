@@ -1,17 +1,9 @@
 // array of Monitor-specific API keys or Main API key to list all monitors
 var __apiKeys = [
-	'm776858319-7c829d2c3e250f85776f588e', //Community
-	'm776858325-1ddf7c7e98ce56609325db3b', //Document
-	'm776858327-19b31e671f6b217b8ded96c6', //Me
-	'm776858407-a704cd548fb5c15db5b625f9', //Update A
-	'm778126978-24e6f1ce275c2518bad1e925', //Update B
-	'm777157148-a67f71b8a807c54b8ce92c9d', //Update deliver A
-	'm777157137-ce781489d1af15253ca3f0c1', //Update deliver B
-	'm776858320-7b44f9ac136f69ac3e356e8e', //Auth A
-	'm776858321-486827042ed7a7f7b8952a05', //Auth B
-	'm778734196-a51947f061c5db10cee048f7', //Auth C
-	'm776858323-0bdafb9e9a71e3305c27c1af', //Auth D
-	'm777190463-ac0ab733e1b29c92b7de0354', //Auth E
+	'm781771530-5367f3401728271078cd7337', //Main
+	'm781771571-941c4c90f91452b9a6e61c78', //Wiki
+	'm781771575-0f8fe29af858bb6b284f7ac0', //FreezeYou
+	'm781771597-4fac452f63e2872771fd67f3', //Forum
 ];
 
 // refresh interval (in seconds)

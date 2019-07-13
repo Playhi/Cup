@@ -7,7 +7,8 @@ var __apiKeys = [
 	'm782925225-72029296f1167aef80b98730', //Zidon.Net
 	'm781771597-4fac452f63e2872771fd67f3', //Forum.Playhi.Net
 	'm783011826-c7a8d301cc10c507de4c26d1', //App.Playhi.Net
+	'm783088005-5f90c3f3d4d002612da70216', //Status.Playhi.Net
 ];
 
 // refresh interval (in seconds)
-var __refresh = 180;
+var __refresh = 300;

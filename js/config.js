@@ -8,6 +8,7 @@ var __apiKeys = [
 	'm781771597-4fac452f63e2872771fd67f3', //Forum.Playhi.Net
 	'm783011826-c7a8d301cc10c507de4c26d1', //App.Playhi.Net
 	'm783088005-5f90c3f3d4d002612da70216', //Status.Playhi.Net
+	'm783190182-d4a1e3366ce1976fe0e85bf0', //Cjgj.Top
 ];
 
 // refresh interval (in seconds)
